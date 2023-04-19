@@ -1,1 +1,2 @@
 I am the content of test2.txt made from mancurad server
+I am the appended content on github web.
